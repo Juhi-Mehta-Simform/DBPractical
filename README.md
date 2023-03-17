@@ -1,1 +1,1 @@
-# DBPractical
+# Database Practical
